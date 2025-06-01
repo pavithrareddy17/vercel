@@ -21,7 +21,7 @@ function App() {
           >
             {darkMode ? '☀️ Light Mode' : '🌙 Dark Mode'}
           </button>
-          <h1>MITHUN SANJITH</h1>
+          <h1>VELURU PAVITHRA</h1>
           <p className="title">Aspiring Software Developer</p>
           <p className="subtitle">Student at Jain (Deemed-to-be University)</p>
         </div>
