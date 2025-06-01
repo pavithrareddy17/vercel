@@ -73,12 +73,12 @@ function App() {
      <Section id="internships" title="INTERNSHIPS">
   <div className="internship-list">
     <div className="internship">
-      <h3>Cloud Intern – Ellucian</h3>
+      <h3>Ellucian - Cloud Intern </h3>
       <p>Worked on an ML-based incident management system using AWS Lambda, Bedrock, and LLMs like LLaMA 3.2. Built proactive/reactive modules that predicted and summarized incidents and recommended best responses. Integrated Slack APIs to automate war rooms. Developed a single dashboard with React to streamline workflows.Our solution proactively identified potential issues, enabling anticipatory measures that reduce incident
 occurrence by 30–40% and cut triage, assignment, and resolution time by up to 30%.</p>
     </div>
     <div className="internship">
-      <h3>IoT Intern – Rural Handmade</h3>
+      <h3> Rural Handmade - IoT Intern </h3>
       <p>Managed IoT product inventory using sensor data collection and entered product data into database.Developed research blogs analyzing emerging IoT use cases and trends.Assisted in optimizing IoT device integration for improved remote monitoring and automation of supply chain.</p>
     </div>
   </div>
