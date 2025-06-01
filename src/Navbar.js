@@ -11,7 +11,7 @@ function Navbar({ darkMode, show, setDarkMode }) {
   return (
     <nav className={`navbar ${show ? 'visible' : ''} ${darkMode ? 'dark' : ''}`}>
       <div className="container">
-        <a href="/" className="logo">MITHUN SANJITH</a>
+        <a href="/" className="logo">VELURU PAVITHRA</a>
 
         {/* Hamburger Icon */}
         <div className={`menu-toggle ${menuOpen ? 'open' : ''}`} onClick={toggleMenu}>
