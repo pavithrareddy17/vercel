@@ -79,7 +79,7 @@ occurrence by 30–40% and cut triage, assignment, and resolution time by up to 
     </div>
     <div className="internship">
       <h3>IoT Intern – Rural Handmade</h3>
-      <p>Optimized supply chain monitoring and implemented sensor-based inventory management. Published blogs on emerging IoT trends. Gained hands-on experience in scalable real-world IoT systems.</p>
+      <p>Managed IoT product inventory using sensor data collection and entered product data into database.Developed research blogs analyzing emerging IoT use cases and trends.Assisted in optimizing IoT device integration for improved remote monitoring and automation of supply chain.</p>
     </div>
   </div>
 </Section>
